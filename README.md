@@ -3,7 +3,10 @@
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer.👋</h1>
 
-<p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> 👤 **Hillary Mutai**
+
+-   Website: https://hilllarymutai.netlify.app
+-   LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)</p>
 
 <!-- <a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a> -->
 
@@ -22,12 +25,6 @@
 <a href="https://twitter.com/HillaryMutai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HillaryMutai_" height="30" width="40" /></a>
 </p> -->
 
-
-👤 **Hillary Mutai**
-
--   Website: https://hilllarymutai.netlify.app
--   Twitter: [@Hillary Mutai](https://twitter.com/HillaryMutai_)
--   LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
