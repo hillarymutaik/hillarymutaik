@@ -1,9 +1,9 @@
-<!-- # Hello, folks! <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> -->
+<p>  <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> </p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p>
 
 <p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
-
 
 **🌱Website: https://hilllarymutai.me**
 **💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)** 
@@ -50,18 +50,17 @@ I’m a software engineer who is passionate about making applications more user-
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia" alt="hillarymutaik" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7" alt="hillarymutaik" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=matrix" alt="hillarymutaik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=matrix" alt="hillarymutaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p>
 
 
 - 🌱 I’m currently learning **Blockchain,Web3**
