@@ -38,7 +38,7 @@ I’m a software engineer who is passionate about making applications more user-
 ## &#x1f4c8; GitHub Stats (Excluding Private Repos)
 <p align="left">
 <a href="https://github.com/hillarymutaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=onedark&show_icons=true&count_private=true" />
 </a>
 </p>
 
