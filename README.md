@@ -61,7 +61,7 @@ I’m a software engineer who is passionate about making applications more user-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=matrix" alt="hillarymutaik" /></p>
 
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6" alt="hillarymutaik" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&row=1&column=6" alt="hillarymutaik" /></p>
 
 
 - 🌱 I’m currently learning **Blockchain,Web3**
