@@ -8,7 +8,7 @@
 
 <!-- <p>  <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> </p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p> -->
-## &#x1f4c8;GitHub Profil Trophy
+## &#x1f4c8;GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## &#x1f4c8; GitHub Stats (Excluding Private Repos)
@@ -18,7 +18,6 @@
 </a>
 </p>
 
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7" alt="hillarymutaik" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
@@ -27,6 +26,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
 
+## &#x1f4c8;GitHub Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
 
