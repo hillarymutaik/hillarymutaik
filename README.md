@@ -69,7 +69,7 @@ I’m a software engineer who is passionate about making applications more user-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&" alt="hillarymutaik" /></p>
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
@@ -79,7 +79,7 @@ I’m a software engineer who is passionate about making applications more user-
 
 
 [1]: https://twitter.com/HillaryMutai_
-[2]: https://github.com/hillarymutaik
+[2]: https://github.com/hillarymutaik -->
 
 
 
