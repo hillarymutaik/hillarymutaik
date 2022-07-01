@@ -87,7 +87,7 @@ I’m a software engineer who is passionate about making applications more user-
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hillarymutaik/myportfolio)
 
-### To view a live example, **[click here](https://hillarymutaik.netlify.app)**.
+<!-- ### To view a live example, **[click here](https://hillarymutaik.netlify.app)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
@@ -105,9 +105,9 @@ If you created something awesome and want to contribute then feel free to open a
 -   [Technologies Used](#technologies-used)
 -   [Illustrations](#illustrations)
 -   [For the Future](#for-the-future)
--   [Contributors](#project-maintainers)
+-   [Contributors](#project-maintainers) -->
 
-## Sections
+<!-- ## Sections
 
 ✔️ Summary and About me\
 ✔️ Skills\
@@ -180,7 +180,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 -   Enable Dark Mode
 
--   Add More Sections
+-   Add More Sections -->
 
 ## Author
 
@@ -188,6 +188,6 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 -   Website: https://hilllarymutai.netlify.app
 -   Twitter: [@Hillary Mutai](https://twitter.com/HillaryMutai_)
--   Github: [@Hillary Mutai](https://github.com/Hillary-K-Mutai)
+<!-- -   Github: [@Hillary Mutai](https://github.com/Hillary-K-Mutai) -->
 -   LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)
 
