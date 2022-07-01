@@ -5,9 +5,7 @@
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
 
 
-
-
-**🌱Website: https://hilllarymutai.netlify.app**
+**🌱Website: https://hilllarymutai.me**
 **💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)** 
 **📫 Enail: mutaihillary01@gmail.com**
 **📫facebook:[@Hillary Mutai](https://web.facebook.com/hillarymutaik)**
@@ -15,13 +13,6 @@
 
 <!-- <a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a> -->
 
-<!-- ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer. -->
-
-<!-- <p align="center">
-  <kbd>
-    <img src="https://github.com/hillarymutaik/myportfolio/blob/main/mutai.png"></img>
-  </kbd>
-</p> -->
 <p align="center">
   <kbd>
 <img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/mutai.png" alt="Banner that says Hillary Mutai">
