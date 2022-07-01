@@ -10,6 +10,24 @@
 
 <p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
 
+## &#x1f4c8; GitHub Stats (Excluding Private Repos)
+<p align="left">
+<a href="https://github.com/hillarymutaik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=onedark&show_icons=true&count_private=true" />
+</a>
+</p>
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7" alt="hillarymutaik" /></a> </p> -->
+
+<!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
+
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
 
 **🌱Website: https://hilllarymutai.me**
@@ -33,24 +51,6 @@ I’m a software engineer who is passionate about making applications more user-
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> I'M FLUENT IN ANDROID DEVELOPMENT WITH 2 YEARS OF EXPERIENCE.</p> <p><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-## &#x1f4c8; GitHub Stats (Excluding Private Repos)
-<p align="left">
-<a href="https://github.com/hillarymutaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=onedark&show_icons=true&count_private=true" />
-</a>
-</p>
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7" alt="hillarymutaik" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
 
 - 🌱 I’m currently learning **Blockchain,Web3**
