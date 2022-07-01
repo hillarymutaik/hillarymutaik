@@ -53,21 +53,18 @@ I’m a software engineer who is passionate about making applications more user-
 
 <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain,Web3**
-
-- 💬 Ask me about **Flutter,Android Dev,Data Science,Laravel,Python**
-
-- 📫 How to reach me **mutaihillary01@gmail.com**
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact" alt="hillarymutaik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en" alt="hillarymutaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&" alt="hillarymutaik" /></p>
 
+
+- 🌱 I’m currently learning **Blockchain,Web3**
+
+- 💬 Ask me about **Flutter,Android Dev,Data Science,Laravel,Python**
+
+- 📫 How to reach me **mutaihillary01@gmail.com**
 
 <!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
