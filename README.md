@@ -66,20 +66,6 @@ I’m a software engineer who is passionate about making applications more user-
 
 - 📫 How to reach me **mutaihillary01@gmail.com**
 
-<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-[1]: https://twitter.com/HillaryMutai_
-[2]: https://github.com/hillarymutaik -->
-
-
-
 <!-- <img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/Github-Header.png" alt="Banner that says Hillary Mutai"> -->
 
 
