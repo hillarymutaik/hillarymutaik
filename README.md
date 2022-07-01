@@ -5,15 +5,16 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0366d6)
-<!-- <p>  <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> </p> -->
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=matrix&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p>  <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> </p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## &#x1f4c8; GitHub Stats (Excluding Private Repos)
 <p align="left">
 <a href="https://github.com/hillarymutaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=matrix&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" />
 </a>
 </p>
 
@@ -22,11 +23,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=matrix" alt="hillarymutaik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=matrix" alt="hillarymutaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
