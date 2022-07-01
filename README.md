@@ -20,6 +20,8 @@
   </kbd>
 </p>
 
+<img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/mutai.png" alt="Banner that says Hillary Mutai">
+
 I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch.
 
 
@@ -64,8 +66,6 @@ I’m a software engineer who is passionate about making applications more user-
 
 - 💬 Ask me about **Flutter,Android Dev,Data Science,Laravel,Python**
 
-
-<!-- <img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/Github-Header.png" alt="Banner that says Hillary Mutai"> -->
 
 
 
