@@ -54,14 +54,14 @@ I’m a software engineer who is passionate about making applications more user-
 
 <!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=matrix" alt="hillarymutaik" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=hillarymutaik&theme=matrix" alt="hillarymutaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=matrix" alt="hillarymutaik" /></p>
 
 
-<!-- <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6" alt="hillarymutaik" /></p> -->
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6" alt="hillarymutaik" /></p>
 
 
 - 🌱 I’m currently learning **Blockchain,Web3**
