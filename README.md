@@ -15,9 +15,11 @@
 
 <h3 align="left">Connect with me: <p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p></h3>
 
-<p align="left">
+<h3 align="left">Connect with me: <p align="center"> <a href="https://linkedin.com/in/hillary-k-mutai" target="blank"><img src="https://img.shields.io/linkedin/in/hillary-k-mutai?logo=linkedin&style=for-the-badge" alt="hillary-k-mutai" /></a> </p></h3>
+
+<!-- <p align="left">
 <a href="https://twitter.com/HillaryMutai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HillaryMutai_" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 👤 **Hillary Mutai**
