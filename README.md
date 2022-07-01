@@ -1,7 +1,7 @@
 <!-- # Hello, folks! <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> -->
 
 
-<h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer.👋</h1>
+<h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
 
 <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
 
@@ -19,6 +19,8 @@
     <img src="https://github.com/hillarymutaik/myportfolio/blob/main/mutai.png"></img>
   </kbd>
 </p>
+
+I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch.
 
 
 <!-- <h3 align="left">Connect with me: <p align="center"> <a href="https://linkedin.com/in/hillary-k-mutai" target="blank"><img src="https://img.shields.io/linkedin/in/hillary-k-mutai?logo=linkedin&style=for-the-badge" alt="HillaryMutai_" /></a> </p></h3> -->
@@ -80,11 +82,8 @@
 [2]: https://github.com/hillarymutaik
 
 
-# Hi, I'm Niyas Muhammed 👋🏽 🧑🏽‍💻
 
-<img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/Github-Header.png" alt="Banner that says Hillary Mutai">
-
-I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch
+<!-- <img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/Github-Header.png" alt="Banner that says Hillary Mutai"> -->
 
 
 
