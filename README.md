@@ -61,7 +61,7 @@ My name is Hillary Mutai and I'm a Full Stack Software Developer.
 
 # Hi, I'm Niyas Muhammed 👋🏽 🧑🏽‍💻
 
-<img src="https://raw.githubusercontent.com/niyasmhdth/niyasmhdth/master/Github-Header.png" alt="Banner that says Niyas Muhammed">
+<img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/Github-Header.png" alt="Banner that says Hillary Mutai">
 
 I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch
 
