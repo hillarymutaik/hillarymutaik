@@ -7,9 +7,11 @@
 
 
 
-**Website: https://hilllarymutai.netlify.app**
-**LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)** 
+**🌱Website: https://hilllarymutai.netlify.app**
+**💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)** 
 **📫 Enail: mutaihillary01@gmail.com**
+**📫facebook:[@Hillary Mutai](https://web.facebook.com/hillarymutaik)**
+
 
 <!-- <a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a> -->
 
