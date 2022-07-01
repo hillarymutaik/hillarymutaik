@@ -7,6 +7,13 @@ My name is Hillary Mutai and I'm a Full Stack Software Developer.
 <a href="https://twitter.com/HillaryMutai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HillaryMutai_" height="30" width="40" /></a>
 </p>
 
+
+👤 **Hillary Mutai**
+
+-   Website: https://hilllarymutai.netlify.app
+-   Twitter: [@Hillary Mutai](https://twitter.com/HillaryMutai_)
+-   LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0366d6)
@@ -182,12 +189,5 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 -   Add More Sections -->
 
-## Author
 
-👤 **Hillary Mutai**
-
--   Website: https://hilllarymutai.netlify.app
--   Twitter: [@Hillary Mutai](https://twitter.com/HillaryMutai_)
-<!-- -   Github: [@Hillary Mutai](https://github.com/Hillary-K-Mutai) -->
--   LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)
 
