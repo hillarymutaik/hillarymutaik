@@ -2,7 +2,7 @@
 
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer.👋</h1>
-<a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a>
+<a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik"></a><a href="https://github.com/hillarymutaik/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a>
 
 <!-- ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer. -->
 
