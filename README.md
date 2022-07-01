@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=matrix&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
 
