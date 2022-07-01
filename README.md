@@ -1,9 +1,10 @@
 <!-- # Hello, folks! <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> -->
 
+<p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
 
-<p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
+
 
 
 **Website: https://hilllarymutai.netlify.app**
@@ -14,13 +15,16 @@
 
 <!-- ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer. -->
 
-<p align="center">
+<!-- <p align="center">
   <kbd>
     <img src="https://github.com/hillarymutaik/myportfolio/blob/main/mutai.png"></img>
   </kbd>
-</p>
-
+</p> -->
+<p align="center">
+  <kbd>
 <img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/mutai.png" alt="Banner that says Hillary Mutai">
+ </kbd>
+</p>
 
 I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch.
 
