@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Welcome to My Portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+<a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a>
 
-## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer.
+<!-- ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer. -->
 
 <p align="center">
   <kbd>
