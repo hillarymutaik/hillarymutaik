@@ -2,7 +2,10 @@
 
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer.👋</h1>
-<a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik"></a><a href="https://github.com/hillarymutaik/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a>
+
+<p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
+
+<!-- <a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a> -->
 
 <!-- ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer. -->
 
@@ -13,9 +16,7 @@
 </p>
 
 
-<h3 align="left">Connect with me: <p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p></h3>
-
-<h3 align="left">Connect with me: <p align="center"> <a href="https://linkedin.com/in/hillary-k-mutai" target="blank"><img src="https://img.shields.io/linkedin/in/hillary-k-mutai?logo=linkedin&style=for-the-badge" alt="hillary-k-mutai" /></a> </p></h3>
+<!-- <h3 align="left">Connect with me: <p align="center"> <a href="https://linkedin.com/in/hillary-k-mutai" target="blank"><img src="https://img.shields.io/linkedin/in/hillary-k-mutai?logo=linkedin&style=for-the-badge" alt="HillaryMutai_" /></a> </p></h3> -->
 
 <!-- <p align="left">
 <a href="https://twitter.com/HillaryMutai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HillaryMutai_" height="30" width="40" /></a>
