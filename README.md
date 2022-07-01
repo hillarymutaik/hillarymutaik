@@ -9,7 +9,7 @@
 <!-- <p>  <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> </p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p> -->
 ## &#x1f4c8;GitHub Profil Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## &#x1f4c8; GitHub Stats (Excluding Private Repos)
 <p align="left">
