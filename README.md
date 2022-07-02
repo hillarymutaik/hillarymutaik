@@ -32,7 +32,7 @@
 
 <h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
 
-<p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
 
 **🌱Website: https://hilllarymutai.me**
 **💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)** 
@@ -64,8 +64,6 @@ I’m a software engineer who is passionate about making applications more user-
 
 <h1 align="center">Hi 👋, I'm Ehsan Azizi</h1>
 <h3 align="center">A passionate software developer from Afghanistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esnz&label=Profile%20views&color=0e75b6&style=flat" alt="esnz" /> </p>
 
 - 👨‍💻 All of my projects are available at [www.ehsanazizi.me](www.ehsanazizi.me)
 
