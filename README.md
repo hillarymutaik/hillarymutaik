@@ -61,22 +61,15 @@ I’m a software engineer who is passionate about making applications more user-
 - 💬 Ask me about **Flutter,Android Dev,Data Science,Laravel,Python**
 
 
-
-<h1 align="center">Hi 👋, I'm Ehsan Azizi</h1>
-<h3 align="center">A passionate software developer from Afghanistan</h3>
-
-- 👨‍💻 All of my projects are available at [www.ehsanazizi.me](www.ehsanazizi.me)
-
-- 📫 How to reach me **hi@ehsanazizi.me**
-
 - ⚡ Fun fact **Coffee over Chai!**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ehsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ehsan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ehsan-azizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsan-azizi" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/ehsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ehsan" height="30" width="40" /></a> -->
+
+<!-- <a href="https://linkedin.com/in/ehsan-azizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsan-azizi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3709523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3709523" height="30" width="40" /></a>
-</p>
+</p>  -->
 
 
 
