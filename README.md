@@ -35,7 +35,7 @@
 <p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
 
 **🌱Website: https://hilllarymutai.me**
-**💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillarymutai)** 
+**💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillary-k-mutai/)** 
 **📫 Enail: mutaihillary01@gmail.com**
 **📫facebook:[@Hillary Mutai](https://web.facebook.com/hillarymutaik)**
 
