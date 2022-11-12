@@ -30,11 +30,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
 
-<h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer 👋🏽 🧑🏽‍💻</h1>
+<h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer</h1>
 
 <p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
 
-**🌱Website: https://hilllarymutai.me**
+<!-- **🌱Website: https://hilllarymutai.me** -->
 **💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillary-k-mutai/)** 
 **📫 Enail: mutaihillary01@gmail.com**
 **📫facebook:[@Hillary Mutai](https://web.facebook.com/hillarymutaik)**
@@ -42,11 +42,11 @@
 
 <!-- <a href="https://github.com/hillarymutaik/myportfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hillarymutaik/myportfolio"></a><a href="https://github.com/hillarymutaik/myportfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hillarymutaik/myportfolio"></a> <a href="https://github.com/hillarymutaik/myportfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hillarymutaik/myportfolio"></a> -->
 
-<p align="center">
+<!-- <p align="center">
   <kbd>
 <img src="https://raw.githubusercontent.com/hillarymutaik/hillarymutaik/master/mutai.png" alt="Banner that says Hillary Mutai">
  </kbd>
-</p>
+</p> -->
 
 I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch.
 
