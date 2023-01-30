@@ -18,12 +18,12 @@
 </a>
 </p>
 
-## &#x1f4c8;GitHub Contributions
+## &#x1f4c8;My Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hillarymutaik&theme=algolia" alt="hillarymutaik" /></p>
 
 [//]: # (<h1 align="center">I'm Hillary Mutai and a Full Stack Software Developer</h1>)
 
-<p align="center"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
+<p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
 
 <!-- **🌱Website: https://hilllarymutai.me** -->
 **💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillary-k-mutai/)** 
