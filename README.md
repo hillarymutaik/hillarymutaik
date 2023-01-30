@@ -14,7 +14,8 @@
 ## &#x1f4c8; GitHub Stats (Excluding Private Repos)
 <p align="left">
 <a href="https://github.com/hillarymutaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" /> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
+
 </a>
 </p>
 
@@ -22,7 +23,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
+[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
 
