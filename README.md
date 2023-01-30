@@ -8,14 +8,13 @@
 
 <!-- <p>  <img src="https://github.com/hillarymutaik/hillarymutaik/blob/main/wave.gif" width="30px"> </p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p> -->
-## &#x1f4c8;GitHub Profile Trophy
+## &#x1f4c8;My Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## &#x1f4c8; GitHub Stats (Excluding Private Repos)
+## &#x1f4c8; My Stats (Excluding Private Repos)
 <p align="left">
 <a href="https://github.com/hillarymutaik">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" />
-
 </a>
 </p>
 
