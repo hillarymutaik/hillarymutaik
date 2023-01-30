@@ -14,16 +14,15 @@
 ## &#x1f4c8; GitHub Stats (Excluding Private Repos)
 <p align="left">
 <a href="https://github.com/hillarymutaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" /> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" />
 </a>
-</p>
+</p> | <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7" alt="hillarymutaik" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a> </p> -->
 
-[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></p>)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&show_icons=true&locale=en&theme=algolia" alt="hillarymutaik" /></p> -->
 
