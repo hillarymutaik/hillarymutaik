@@ -1,12 +1,10 @@
 <p align="left"> <a href="https://twitter.com/HillaryMutai_" target="blank"><img src="https://img.shields.io/twitter/follow/HillaryMutai_?logo=twitter&style=for-the-badge" alt="HillaryMutai_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
-
 <!-- **🌱Website: https://hilllarymutai.me** -->
 **💬LinkedIn: [@Hillary Mutai](https://linkedin.com/in/hillary-k-mutai/)**
 **📫 Enail: mutaihillary01@gmail.com**
 **📫facebook:[@Hillary Mutai](https://web.facebook.com/hillarymutaik)**
 
 I’m a software engineer passionately about building user-friendly applications, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch.
-
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=6" alt="hillarymutaik" /></p> -->
 ## &#x1f4c8;My Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -38,12 +36,6 @@ I’m a software engineer passionately about building user-friendly applications
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0366d6)
 
-
-[//]: # (<p align="left">)
-
-[//]: # (<a href="https://stackoverflow.com/users/3709523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3709523" height="30" width="40" /></a>)
-
-[//]: # (</p>  )
 
 
 
