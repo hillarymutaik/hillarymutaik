@@ -5,7 +5,7 @@
 
 **📫 Enail: mutaihillary01@gmail.com**
 
-I’m a software engineer passionately about building user-friendly applications, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch.
+I’m a software engineer passionately about building user-friendly applications, creating technology to elevate people, and building community.
 
 ## &#x1f4c8; Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -25,9 +25,9 @@ I’m a software engineer passionately about building user-friendly applications
 
 - 🌱 I’m currently learning **Blockchain,Web3**
 
-- 💬 Ask me about **Flutter,Android Dev,Data Science,Kotlin,Laravel,Python**
+- 💬 Ask me about **Flutter,Android,Data Science,Kotlin,Laravel,Python**
 
-- ⚡ Fun fact **Coffee over Chai!**
+- ⚡ Fun fact **Coffee over Chai**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0366d6)
