@@ -5,7 +5,7 @@
 
 **📫 Enail: mutaihillary01@gmail.com**
 
-I’m a software engineer passionately about building user-friendly applications, creating technology to elevate people, and building community.
+I’m a software engineer passionately building user-friendly applications, creating technology to elevate and building community.
 
 ## &#x1f4c8; Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -36,16 +36,3 @@ I’m a software engineer passionately about building user-friendly applications
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0366d6)
-
-
-
-
-
-
-
-
-
-
-
-
-
