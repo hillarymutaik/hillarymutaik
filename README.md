@@ -1,4 +1,5 @@
-<p align="left"> <a href="https://twitter.com/MutaiHillary_" target="blank"><img src="https://img.shields.io/twitter/follow/MutaiHillary_?logo=twitter&style=for-the-badge&label=Profile%20views&color=0e75b6&style=flat"" alt="MuHillary_" /></a>  <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
+<p align="left"> <a href="https://twitter.com/MutaiHillary_" target="blank"><img src="https://img.shields.io/twitter/follow/MutaiHillary_?logo=twitter&style=for-the-badge" alt="@MuHillary_" /></a>  
+<img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
 
 ## &#x1f4c8; Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
