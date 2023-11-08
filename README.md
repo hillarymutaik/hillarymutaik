@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://twitter.com/@MutaiHillary_" target="blank"><img src="https://img.shields.io/twitter/follow/MutaiHillary_?logo=twitter&style=for-the-badge" alt="hillarymutaik" /> </a>  
+<p align="left"> <a href="https://twitter.com/@MutaiHillary_" target="blank"><img src="https://img.shields.io/twitter/followers/MutaiHillary_?logo=twitter&style=for-the-badge" alt="hillarymutaik" /> </a>  
   <a href="https://twitter.com/MutaiHillary_">
     <img alt="Twitter Followers" src="https://img.shields.io/badge/followers-blue?color=orange&logo=twitter">
   </a>
