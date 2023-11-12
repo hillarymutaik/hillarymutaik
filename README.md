@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://twitter.com/@MutaiHillary_"><img src="https://img.shields.io/twitter/MutaiHillary_?logo=twitter&color=0e75b6&style=flat" alt="Twitter Followers" /> </a>  
+<p align="left"> <a href="https://twitter.com/@MutaiHillary_"><img src="https://img.shields.io/twitter/Follow/MutaiHillary_?logo=twitter&color=0e75b6&style=flat" alt="Twitter Followers" /> </a>  
 <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
 
 ## Profile Trophy
