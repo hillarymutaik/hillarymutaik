@@ -1,6 +1,3 @@
-<p align="left"> <a href="https://twitter.com/@MutaiHillary_"><img src="https://img.shields.io/twitter/follow/MutaiHillary_?logo=twitter&color=0e75b6&style=flat" alt="Twitter Followers" /> </a>  
-<img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0e75b6&style=flat" alt="hillarymutaik" /> </p>
-
 ## Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hillarymutaik&theme=algolia&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
