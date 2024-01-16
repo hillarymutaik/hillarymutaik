@@ -24,3 +24,4 @@
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
+![](https://img.shields.io/twitter/follow/MutaiHillary_?logo=twitter&color=0e75b6&style=flat)
