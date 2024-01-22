@@ -5,9 +5,7 @@
 <p align="left">
 <a href="https://github.com/hillarymutaik">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarymutaik&theme=algolia&show_icons=true&count_private=true" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /> 
-
-</a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hillarymutaik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hillarymutaik" /></a>
 </p>
 
 ## Technologies & Tools
