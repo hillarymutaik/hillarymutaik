@@ -57,7 +57,7 @@ I'm a full stack and mobile developer based in Bomet, Kenya. I build web applica
 <details open>
 <summary><strong>Mobile</strong>: Flutter, React Native, TypeScript, Kotlin, Java, Swift</summary>
 <br />
-<img src="assets/stack/mobile.svg" alt="Flutter, Dart, React Native, TypeScript, Kotlin, Java, Android Studio, Swift" />
+<img src="assets/stack/mobile.svg" alt="Flutter, Dart, React Native, TypeScript, Kotlin, Java, Swift" />
 </details>
 
 <details open>
@@ -69,7 +69,7 @@ I'm a full stack and mobile developer based in Bomet, Kenya. I build web applica
 <details open>
 <summary><strong>Tools</strong></summary>
 <br />
-<img src="assets/stack/tools.svg" alt="Docker, Linux, Bash, Git, IntelliJ IDEA" />
+<img src="assets/stack/tools.svg" alt="Android Studio, IntelliJ IDEA, VS Code, Git, GitHub, Docker, Linux, Bash, Postman, Firebase, Figma" />
 </details>
 
 ## Contact
