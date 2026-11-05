@@ -23,12 +23,12 @@ const LANGUAGE_COLORS = {
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
 const num = (n) => n.toLocaleString('en-US');
 
-async function get(url, json = true) {
+async function get(url) {
   const headers = { 'User-Agent': `${USER}-readme-cards` };
-  if (json && process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+  if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
   const res = await fetch(url, { headers });
   if (!res.ok) throw new Error(`${url} returned ${res.status}`);
-  return json ? res.json() : res.text();
+  return res.json();
 }
 
 async function getRepos() {
@@ -40,49 +40,10 @@ async function getRepos() {
   }
 }
 
-async function getContributions() {
-  const html = await get(`https://github.com/users/${USER}/contributions`, false);
-  const counts = {};
-  for (const m of html.matchAll(/<tool-tip\b[^>]*\bfor="([^"]+)"[^>]*>([^<]*)<\/tool-tip>/g)) {
-    const n = m[2].match(/^([\d,]+) contribution/);
-    counts[m[1]] = n ? Number(n[1].replace(/,/g, '')) : 0;
-  }
-  const days = [];
-  for (const m of html.matchAll(/<td\b[^>]*>/g)) {
-    const date = m[0].match(/data-date="([\d-]+)"/);
-    const level = m[0].match(/data-level="(\d)"/);
-    const id = m[0].match(/\bid="([^"]+)"/);
-    if (date && level) days.push({ date: date[1], level: +level[1], count: counts[id && id[1]] || 0 });
-  }
-  days.sort((a, b) => a.date.localeCompare(b.date));
-  // A page-layout change on GitHub's side should fail the run, not publish an empty card.
-  if (days.length < 300) throw new Error(`Expected a year of contribution days, found ${days.length}`);
-  const inconsistent = days.some((d) => d.level > 0 && d.count === 0);
-  if (inconsistent) throw new Error('Contribution levels and counts do not match');
-  return days;
-}
-
-function streaks(days) {
-  let longest = 0;
-  let run = 0;
-  for (const d of days) {
-    run = d.count > 0 ? run + 1 : 0;
-    longest = Math.max(longest, run);
-  }
-  // Having no contributions yet today does not break the current streak.
-  let i = days.length - 1;
-  if (days[i].count === 0) i--;
-  let current = 0;
-  while (i >= 0 && days[i].count > 0) { current++; i--; }
-  return { current, longest };
-}
-
 const theme = `
     :root { --bg:#ffffff; --border:#d0d7de; --text:#1f2328; --muted:#59636e; --accent:#0969da; --track:#eff2f5;
-      --l0:#ebedf0; --l1:#b6d7fb; --l2:#73b3f5; --l3:#2f81f7; --l4:#0a4fb0; }
     @media (prefers-color-scheme: dark) {
       :root { --bg:#0d1117; --border:#30363d; --text:#e6edf3; --muted:#9198a1; --accent:#58a6ff; --track:#21262d;
-        --l0:#161b22; --l1:#0c3a6e; --l2:#1a62b5; --l3:#2f81f7; --l4:#8cc4ff; }
     }
     text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .bg { fill:var(--bg); stroke:var(--border); }
@@ -100,7 +61,7 @@ ${body}
 const panel = (w, h) => `  <rect class="bg" x=".5" y=".5" width="${w - 1}" height="${h - 1}" rx="10"/>`;
 
 function headerCard() {
-  const lines = ['Full stack web applications', 'Cross-platform apps with Flutter', 'Native Android with Kotlin and Java', 'Python, Django and Flask'];
+  const lines = ['Full stack web apps with TypeScript', 'Cross-platform apps with Flutter and React Native', 'Native Android with Kotlin and Java', 'Python, Django and Flask'];
   const css = `
     text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill:#fff; }
     .name { font-size:46px; font-weight:700; }
@@ -124,20 +85,16 @@ ${roles}
   <text class="place" x="50" y="180">Software Developer · Bomet, Kenya</text>`);
 }
 
-function statsCard(user, own, days) {
-  const { current, longest } = streaks(days);
-  const total = days.reduce((a, d) => a + d.count, 0);
+function statsCard(user, own) {
   const tiles = [
-    [num(total), 'contributions, last year'],
-    [`${current}d`, 'current streak'],
-    [`${longest}d`, 'longest streak, last year'],
     [num(user.public_repos), 'public repositories'],
     [num(own.reduce((a, r) => a + r.stargazers_count, 0)), 'stars earned'],
     [num(user.followers), 'followers'],
+    [num(user.following), 'following'],
   ];
   const body = tiles.map(([v, l], i) => {
     const x = 24 + (i % 2) * 230;
-    const y = 72 + Math.floor(i / 2) * 58;
+    const y = 90 + Math.floor(i / 2) * 80;
     return `  <g><text class="value" x="${x}" y="${y}">${esc(v)}</text><text class="label" x="${x}" y="${y + 18}">${esc(l)}</text></g>`;
   }).join('\n');
   return svg(495, 235, 'GitHub stats', theme, `${panel(495, 235)}
@@ -173,42 +130,6 @@ function languagesCard(own) {
 ${legend}`);
 }
 
-function contributionsCard(days) {
-  const total = days.reduce((a, d) => a + d.count, 0);
-  const cell = 13;
-  const gap = 3;
-  const left = 24;
-  const top = 66;
-  const startDow = new Date(`${days[0].date}T00:00:00Z`).getUTCDay();
-  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-  let lastMonth = -1;
-  let lastLabelWeek = -9;
-  const labels = [];
-  const cells = days.map((d, i) => {
-    const slot = i + startDow;
-    const week = Math.floor(slot / 7);
-    const x = left + week * (cell + gap);
-    const y = top + (slot % 7) * (cell + gap);
-    const month = +d.date.slice(5, 7) - 1;
-    if (month !== lastMonth) {
-      lastMonth = month;
-      if (week - lastLabelWeek >= 3) {
-        labels.push(`<text class="label" x="${x}" y="${top - 8}">${months[month]}</text>`);
-        lastLabelWeek = week;
-      }
-    }
-    const tip = `${d.count} on ${d.date}`;
-    return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="3" fill="var(--l${d.level})"><title>${tip}</title></rect>`;
-  });
-  const weeks = Math.ceil((days.length + startDow) / 7);
-  const w = left * 2 + weeks * (cell + gap) - gap;
-  const h = top + 7 * (cell + gap) + 12;
-  return svg(w, h, `${total} contributions in the last year`, theme, `${panel(w, h)}
-  <text class="title" x="${left}" y="30">${num(total)} contributions in the last year</text>
-  ${labels.join('\n  ')}
-  ${cells.join('\n  ')}`);
-}
-
 function wrap(text, max) {
   const lines = [''];
   for (const word of text.split(' ')) {
@@ -233,15 +154,12 @@ function projectCard(project, repo) {
 }
 
 async function main() {
-  const [user, repos, days] = await Promise.all([
-    get(`https://api.github.com/users/${USER}`), getRepos(), getContributions(),
-  ]);
+  const [user, repos] = await Promise.all([get(`https://api.github.com/users/${USER}`), getRepos()]);
   const own = repos.filter((r) => !r.fork);
   const files = {
     'header.svg': headerCard(),
-    'stats.svg': statsCard(user, own, days),
+    'stats.svg': statsCard(user, own),
     'languages.svg': languagesCard(own),
-    'contributions.svg': contributionsCard(days),
   };
   for (const p of PROJECTS) {
     const repo = repos.find((r) => r.name === p.repo);

@@ -17,8 +17,8 @@
   <circle class="orb" cx="760" cy="180" r="50" style="animation-delay:-4s"/>
   <circle class="orb" cx="950" cy="190" r="34" style="animation-delay:-7s"/>
   <text class="name" x="50" y="92">Hillary Mutai</text>
-  <text class="role first" x="50" y="138" style="animation-delay:0s">Full stack web applications</text>
-  <text class="role" x="50" y="138" style="animation-delay:3s">Cross-platform apps with Flutter</text>
+  <text class="role first" x="50" y="138" style="animation-delay:0s">Full stack web apps with TypeScript</text>
+  <text class="role" x="50" y="138" style="animation-delay:3s">Cross-platform apps with Flutter and React Native</text>
   <text class="role" x="50" y="138" style="animation-delay:6s">Native Android with Kotlin and Java</text>
   <text class="role" x="50" y="138" style="animation-delay:9s">Python, Django and Flask</text>
   <text class="place" x="50" y="180">Software Developer · Bomet, Kenya</text>

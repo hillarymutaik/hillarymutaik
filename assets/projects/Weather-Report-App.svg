@@ -2,10 +2,8 @@
   <title>Weather-Report-App</title>
   <style>
     :root { --bg:#ffffff; --border:#d0d7de; --text:#1f2328; --muted:#59636e; --accent:#0969da; --track:#eff2f5;
-      --l0:#ebedf0; --l1:#b6d7fb; --l2:#73b3f5; --l3:#2f81f7; --l4:#0a4fb0; }
     @media (prefers-color-scheme: dark) {
       :root { --bg:#0d1117; --border:#30363d; --text:#e6edf3; --muted:#9198a1; --accent:#58a6ff; --track:#21262d;
-        --l0:#161b22; --l1:#0c3a6e; --l2:#1a62b5; --l3:#2f81f7; --l4:#8cc4ff; }
     }
     text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .bg { fill:var(--bg); stroke:var(--border); }

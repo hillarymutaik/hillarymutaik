@@ -9,13 +9,13 @@
 <a href="mailto:mutaihillary01@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0969da?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0969da&style=for-the-badge" alt="Profile views" />
 
-**[About](#about)** · **[Projects](#projects)** · **[Tech stack](#tech-stack)** · **[Activity](#activity)** · **[Contact](#contact)**
+**[About](#about)** · **[Projects](#projects)** · **[Tech stack](#tech-stack)** · **[Stats](#stats)** · **[Contact](#contact)**
 
 </div>
 
 ## About
 
-I'm a full stack and mobile developer based in Bomet, Kenya. I build web applications with JavaScript, React, Node.js, Python, Django and Laravel, and mobile apps with Flutter, Kotlin and Java.
+I'm a full stack and mobile developer based in Bomet, Kenya. I build web applications with JavaScript, TypeScript, React, Node.js, Python, Django and Laravel, and mobile apps with Flutter, React Native, Kotlin and Java.
 
 ## Projects
 
@@ -55,9 +55,9 @@ I'm a full stack and mobile developer based in Bomet, Kenya. I build web applica
 ## Tech stack
 
 <details open>
-<summary><strong>Mobile</strong></summary>
+<summary><strong>Mobile</strong>: Flutter, React Native, TypeScript, Kotlin, Java, Swift</summary>
 <br />
-<img src="assets/stack/mobile.svg" alt="Flutter, Dart, Kotlin, Java, Android Studio, Swift" />
+<img src="assets/stack/mobile.svg" alt="Flutter, Dart, React Native, TypeScript, Kotlin, Java, Android Studio, Swift" />
 </details>
 
 <details open>
@@ -72,13 +72,11 @@ I'm a full stack and mobile developer based in Bomet, Kenya. I build web applica
 <img src="assets/stack/tools.svg" alt="Docker, Linux, Bash, Git, IntelliJ IDEA" />
 </details>
 
-## Activity
+## Stats
 
 <img src="assets/stats.svg" width="49%" alt="GitHub stats" /> <img src="assets/languages.svg" width="49%" alt="Languages by public repository" />
 
-<img src="assets/contributions.svg" width="100%" alt="Contribution calendar for the last year" />
-
-<sub>Cards are refreshed daily by [a GitHub Action](.github/workflows/update-cards.yml) and count public activity.</sub>
+<sub>Cards are refreshed daily by [a GitHub Action](.github/workflows/update-cards.yml) and use public data only.</sub>
 
 ## Contact
 
