@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="235" viewBox="0 0 495 235" role="img" aria-label="GitHub stats">
+  <title>GitHub stats</title>
+  <style>
+    :root { --bg:#ffffff; --border:#d0d7de; --text:#1f2328; --muted:#59636e; --accent:#0969da; --track:#eff2f5;
+      --l0:#ebedf0; --l1:#b6d7fb; --l2:#73b3f5; --l3:#2f81f7; --l4:#0a4fb0; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0d1117; --border:#30363d; --text:#e6edf3; --muted:#9198a1; --accent:#58a6ff; --track:#21262d;
+        --l0:#161b22; --l1:#0c3a6e; --l2:#1a62b5; --l3:#2f81f7; --l4:#8cc4ff; }
+    }
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .bg { fill:var(--bg); stroke:var(--border); }
+    .title { font-size:16px; font-weight:600; fill:var(--text); }
+    .value { font-size:24px; font-weight:700; fill:var(--accent); }
+    .label { font-size:12px; fill:var(--muted); }
+    .body { font-size:13px; fill:var(--text); }
+    @keyframes rise { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
+    .rise { animation: rise .6s ease-out both; }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }</style>
+  <rect class="bg" x=".5" y=".5" width="494" height="234" rx="10"/>
+  <text class="title" x="24" y="34">GitHub stats</text>
+  <g class="rise" style="animation-delay:0s"><text class="value" x="24" y="72">178</text><text class="label" x="24" y="90">contributions, last year</text></g>
+  <g class="rise" style="animation-delay:0.08s"><text class="value" x="254" y="72">1d</text><text class="label" x="254" y="90">current streak</text></g>
+  <g class="rise" style="animation-delay:0.16s"><text class="value" x="24" y="130">5d</text><text class="label" x="24" y="148">longest streak, last year</text></g>
+  <g class="rise" style="animation-delay:0.24s"><text class="value" x="254" y="130">38</text><text class="label" x="254" y="148">public repositories</text></g>
+  <g class="rise" style="animation-delay:0.32s"><text class="value" x="24" y="188">37</text><text class="label" x="24" y="206">stars earned</text></g>
+  <g class="rise" style="animation-delay:0.4s"><text class="value" x="254" y="188">65</text><text class="label" x="254" y="206">followers</text></g>
+</svg>

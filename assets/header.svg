@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Hillary Mutai, Software Developer">
+  <title>Hillary Mutai, Software Developer</title>
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill:#fff; }
+    .name { font-size:46px; font-weight:700; }
+    .role { font-size:20px; opacity:0; animation: cycle 12s infinite; }
+    .place { font-size:14px; fill:#cfe6ff; }
+    .orb { fill:#fff; opacity:.1; animation: drift 9s ease-in-out infinite alternate; }
+    @keyframes cycle { 0%,2% { opacity:0; transform:translateY(8px); } 5%,22% { opacity:1; transform:none; } 25%,100% { opacity:0; } }
+    @keyframes drift { to { transform:translate(-18px,14px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .orb { animation:none; } .role { animation:none; } .role.first { opacity:1; }
+    }</style>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d91"/><stop offset="1" stop-color="#0fa3d8"/></linearGradient></defs>
+  <rect width="1000" height="220" rx="14" fill="url(#g)"/>
+  <circle class="orb" cx="880" cy="60" r="90"/>
+  <circle class="orb" cx="760" cy="180" r="50" style="animation-delay:-4s"/>
+  <circle class="orb" cx="950" cy="190" r="34" style="animation-delay:-7s"/>
+  <text class="name" x="50" y="92">Hillary Mutai</text>
+  <text class="role first" x="50" y="138" style="animation-delay:0s">Full stack web applications</text>
+  <text class="role" x="50" y="138" style="animation-delay:3s">Cross-platform apps with Flutter</text>
+  <text class="role" x="50" y="138" style="animation-delay:6s">Native Android with Kotlin and Java</text>
+  <text class="role" x="50" y="138" style="animation-delay:9s">Python, Django and Flask</text>
+  <text class="place" x="50" y="180">Software Developer · Bomet, Kenya</text>
+</svg>

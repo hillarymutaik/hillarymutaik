@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="235" viewBox="0 0 495 235" role="img" aria-label="Languages by public repository">
+  <title>Languages by public repository</title>
+  <style>
+    :root { --bg:#ffffff; --border:#d0d7de; --text:#1f2328; --muted:#59636e; --accent:#0969da; --track:#eff2f5;
+      --l0:#ebedf0; --l1:#b6d7fb; --l2:#73b3f5; --l3:#2f81f7; --l4:#0a4fb0; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0d1117; --border:#30363d; --text:#e6edf3; --muted:#9198a1; --accent:#58a6ff; --track:#21262d;
+        --l0:#161b22; --l1:#0c3a6e; --l2:#1a62b5; --l3:#2f81f7; --l4:#8cc4ff; }
+    }
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .bg { fill:var(--bg); stroke:var(--border); }
+    .title { font-size:16px; font-weight:600; fill:var(--text); }
+    .value { font-size:24px; font-weight:700; fill:var(--accent); }
+    .label { font-size:12px; fill:var(--muted); }
+    .body { font-size:13px; fill:var(--text); }
+    @keyframes rise { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
+    .rise { animation: rise .6s ease-out both; }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }</style>
+  <rect class="bg" x=".5" y=".5" width="494" height="234" rx="10"/>
+  <text class="title" x="24" y="34">Languages by public repo</text>
+  <clipPath id="c"><rect x="24" y="50" width="447" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#c)"><rect x="24.0" y="50" width="149.0" height="10" fill="#00b4ab"/><rect x="173.0" y="50" width="99.3" height="10" fill="#b07219"/><rect x="272.3" y="50" width="49.7" height="10" fill="#f1e05a"/><rect x="322.0" y="50" width="33.1" height="10" fill="#3178c6"/><rect x="355.1" y="50" width="33.1" height="10" fill="#da5b0b"/><rect x="388.2" y="50" width="33.1" height="10" fill="#a97bff"/><rect x="421.3" y="50" width="49.7" height="10" fill="#8b949e"/></g>
+  <g class="rise" style="animation-delay:0s"><circle cx="29" cy="88" r="5" fill="#00b4ab"/><text class="body" x="42" y="92">Dart</text><text class="label" x="199" y="92" text-anchor="end">9 repos</text></g>
+  <g class="rise" style="animation-delay:0.08s"><circle cx="259" cy="88" r="5" fill="#b07219"/><text class="body" x="272" y="92">Java</text><text class="label" x="429" y="92" text-anchor="end">6 repos</text></g>
+  <g class="rise" style="animation-delay:0.16s"><circle cx="29" cy="120" r="5" fill="#f1e05a"/><text class="body" x="42" y="124">JavaScript</text><text class="label" x="199" y="124" text-anchor="end">3 repos</text></g>
+  <g class="rise" style="animation-delay:0.24s"><circle cx="259" cy="120" r="5" fill="#3178c6"/><text class="body" x="272" y="124">TypeScript</text><text class="label" x="429" y="124" text-anchor="end">2 repos</text></g>
+  <g class="rise" style="animation-delay:0.32s"><circle cx="29" cy="152" r="5" fill="#da5b0b"/><text class="body" x="42" y="156">Jupyter Notebook</text><text class="label" x="199" y="156" text-anchor="end">2 repos</text></g>
+  <g class="rise" style="animation-delay:0.4s"><circle cx="259" cy="152" r="5" fill="#a97bff"/><text class="body" x="272" y="156">Kotlin</text><text class="label" x="429" y="156" text-anchor="end">2 repos</text></g>
+  <g class="rise" style="animation-delay:0.48s"><circle cx="29" cy="184" r="5" fill="#8b949e"/><text class="body" x="42" y="188">Other</text><text class="label" x="199" y="188" text-anchor="end">3 repos</text></g>
+</svg>
