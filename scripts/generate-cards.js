@@ -21,7 +21,6 @@ const LANGUAGE_COLORS = {
 };
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
-const num = (n) => n.toLocaleString('en-US');
 
 async function get(url) {
   const headers = { 'User-Agent': `${USER}-readme-cards` };
@@ -85,51 +84,6 @@ ${roles}
   <text class="place" x="50" y="180">Software Developer · Bomet, Kenya</text>`);
 }
 
-function statsCard(user, own) {
-  const tiles = [
-    [num(user.public_repos), 'public repositories'],
-    [num(own.reduce((a, r) => a + r.stargazers_count, 0)), 'stars earned'],
-    [num(user.followers), 'followers'],
-    [num(user.following), 'following'],
-  ];
-  const body = tiles.map(([v, l], i) => {
-    const x = 24 + (i % 2) * 230;
-    const y = 90 + Math.floor(i / 2) * 80;
-    return `  <g><text class="value" x="${x}" y="${y}">${esc(v)}</text><text class="label" x="${x}" y="${y + 18}">${esc(l)}</text></g>`;
-  }).join('\n');
-  return svg(495, 235, 'GitHub stats', theme, `${panel(495, 235)}
-  <text class="title" x="24" y="34">GitHub stats</text>
-${body}`);
-}
-
-function languagesCard(own) {
-  const tally = {};
-  own.forEach((r) => { if (r.language) tally[r.language] = (tally[r.language] || 0) + 1; });
-  const ranked = Object.entries(tally).sort((a, b) => b[1] - a[1]);
-  const total = ranked.reduce((a, [, n]) => a + n, 0);
-  const top = ranked.slice(0, 6);
-  const rest = total - top.reduce((a, [, n]) => a + n, 0);
-  if (rest) top.push(['Other', rest]);
-  const barW = 447;
-  let x = 24;
-  const bar = top.map(([lang, n]) => {
-    const w = (n / total) * barW;
-    const seg = `<rect x="${x.toFixed(1)}" y="50" width="${w.toFixed(1)}" height="10" fill="${LANGUAGE_COLORS[lang] || '#8b949e'}"/>`;
-    x += w;
-    return seg;
-  }).join('');
-  const legend = top.map(([lang, n], i) => {
-    const lx = 24 + (i % 2) * 230;
-    const ly = 92 + Math.floor(i / 2) * 32;
-    return `  <g><circle cx="${lx + 5}" cy="${ly - 4}" r="5" fill="${LANGUAGE_COLORS[lang] || '#8b949e'}"/><text class="body" x="${lx + 18}" y="${ly}">${esc(lang)}</text><text class="label" x="${lx + 175}" y="${ly}" text-anchor="end">${n} ${n === 1 ? 'repo' : 'repos'}</text></g>`;
-  }).join('\n');
-  return svg(495, 235, 'Languages by public repository', theme, `${panel(495, 235)}
-  <text class="title" x="24" y="34">Languages by public repo</text>
-  <clipPath id="c"><rect x="24" y="50" width="${barW}" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#c)">${bar}</g>
-${legend}`);
-}
-
 function wrap(text, max) {
   const lines = [''];
   for (const word of text.split(' ')) {
@@ -154,12 +108,9 @@ function projectCard(project, repo) {
 }
 
 async function main() {
-  const [user, repos] = await Promise.all([get(`https://api.github.com/users/${USER}`), getRepos()]);
-  const own = repos.filter((r) => !r.fork);
+  const repos = await getRepos();
   const files = {
     'header.svg': headerCard(),
-    'stats.svg': statsCard(user, own),
-    'languages.svg': languagesCard(own),
   };
   for (const p of PROJECTS) {
     const repo = repos.find((r) => r.name === p.repo);

@@ -9,7 +9,7 @@
 <a href="mailto:mutaihillary01@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0969da?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=hillarymutaik&label=Profile%20views&color=0969da&style=for-the-badge" alt="Profile views" />
 
-**[About](#about)** · **[Projects](#projects)** · **[Tech stack](#tech-stack)** · **[Stats](#stats)** · **[Contact](#contact)**
+**[About](#about)** · **[Projects](#projects)** · **[Tech stack](#tech-stack)** · **[Contact](#contact)**
 
 </div>
 
@@ -71,12 +71,6 @@ I'm a full stack and mobile developer based in Bomet, Kenya. I build web applica
 <br />
 <img src="assets/stack/tools.svg" alt="Docker, Linux, Bash, Git, IntelliJ IDEA" />
 </details>
-
-## Stats
-
-<img src="assets/stats.svg" width="49%" alt="GitHub stats" /> <img src="assets/languages.svg" width="49%" alt="Languages by public repository" />
-
-<sub>Cards are refreshed daily by [a GitHub Action](.github/workflows/update-cards.yml) and use public data only.</sub>
 
 ## Contact
 
