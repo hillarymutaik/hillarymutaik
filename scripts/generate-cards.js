@@ -89,10 +89,7 @@ const theme = `
     .title { font-size:16px; font-weight:600; fill:var(--text); }
     .value { font-size:24px; font-weight:700; fill:var(--accent); }
     .label { font-size:12px; fill:var(--muted); }
-    .body { font-size:13px; fill:var(--text); }
-    @keyframes rise { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
-    .rise { animation: rise .6s ease-out both; }
-    @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }`;
+    .body { font-size:13px; fill:var(--text); }`;
 
 const svg = (w, h, label, css, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(label)}">
   <title>${esc(label)}</title>
@@ -141,7 +138,7 @@ function statsCard(user, own, days) {
   const body = tiles.map(([v, l], i) => {
     const x = 24 + (i % 2) * 230;
     const y = 72 + Math.floor(i / 2) * 58;
-    return `  <g class="rise" style="animation-delay:${i * 0.08}s"><text class="value" x="${x}" y="${y}">${esc(v)}</text><text class="label" x="${x}" y="${y + 18}">${esc(l)}</text></g>`;
+    return `  <g><text class="value" x="${x}" y="${y}">${esc(v)}</text><text class="label" x="${x}" y="${y + 18}">${esc(l)}</text></g>`;
   }).join('\n');
   return svg(495, 235, 'GitHub stats', theme, `${panel(495, 235)}
   <text class="title" x="24" y="34">GitHub stats</text>
@@ -167,7 +164,7 @@ function languagesCard(own) {
   const legend = top.map(([lang, n], i) => {
     const lx = 24 + (i % 2) * 230;
     const ly = 92 + Math.floor(i / 2) * 32;
-    return `  <g class="rise" style="animation-delay:${i * 0.08}s"><circle cx="${lx + 5}" cy="${ly - 4}" r="5" fill="${LANGUAGE_COLORS[lang] || '#8b949e'}"/><text class="body" x="${lx + 18}" y="${ly}">${esc(lang)}</text><text class="label" x="${lx + 175}" y="${ly}" text-anchor="end">${n} ${n === 1 ? 'repo' : 'repos'}</text></g>`;
+    return `  <g><circle cx="${lx + 5}" cy="${ly - 4}" r="5" fill="${LANGUAGE_COLORS[lang] || '#8b949e'}"/><text class="body" x="${lx + 18}" y="${ly}">${esc(lang)}</text><text class="label" x="${lx + 175}" y="${ly}" text-anchor="end">${n} ${n === 1 ? 'repo' : 'repos'}</text></g>`;
   }).join('\n');
   return svg(495, 235, 'Languages by public repository', theme, `${panel(495, 235)}
   <text class="title" x="24" y="34">Languages by public repo</text>
@@ -201,7 +198,7 @@ function contributionsCard(days) {
       }
     }
     const tip = `${d.count} on ${d.date}`;
-    return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="3" fill="var(--l${d.level})" class="rise" style="animation-delay:${(week * 0.015).toFixed(3)}s"><title>${tip}</title></rect>`;
+    return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="3" fill="var(--l${d.level})"><title>${tip}</title></rect>`;
   });
   const weeks = Math.ceil((days.length + startDow) / 7);
   const w = left * 2 + weeks * (cell + gap) - gap;
