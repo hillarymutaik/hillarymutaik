@@ -7,7 +7,6 @@ const path = require('path');
 const USER = 'hillarymutaik';
 const OUT = path.join(__dirname, '..', 'assets');
 const PROJECTS = [
-  { repo: 'kliniki', blurb: 'Clinic and pharmacy platform.' },
   { repo: 'Music-App', blurb: 'Music app built with Flutter.' },
   { repo: 'airduka', blurb: 'Cross-platform product catalogue with list and grid views.' },
   { repo: 'Event-Tracker-App', blurb: 'Inventory app for Android.' },

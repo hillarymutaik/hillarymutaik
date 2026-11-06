@@ -21,15 +21,14 @@ I'm a full stack and mobile developer based in Bomet, Kenya. I build web applica
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/hillarymutaik/kliniki"><img src="assets/projects/kliniki.svg" width="100%" alt="kliniki: clinic and pharmacy platform" /></a></td>
     <td width="50%"><a href="https://github.com/hillarymutaik/Music-App"><img src="assets/projects/Music-App.svg" width="100%" alt="Music-App: music app built with Flutter" /></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/hillarymutaik/airduka"><img src="assets/projects/airduka.svg" width="100%" alt="airduka: cross-platform product catalogue" /></a></td>
-    <td width="50%"><a href="https://github.com/hillarymutaik/Event-Tracker-App"><img src="assets/projects/Event-Tracker-App.svg" width="100%" alt="Event-Tracker-App: inventory app for Android" /></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/hillarymutaik/Event-Tracker-App"><img src="assets/projects/Event-Tracker-App.svg" width="100%" alt="Event-Tracker-App: inventory app for Android" /></a></td>
     <td width="50%"><a href="https://github.com/hillarymutaik/Weather-Report-App"><img src="assets/projects/Weather-Report-App.svg" width="100%" alt="Weather-Report-App: weather report app in Swift" /></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://github.com/hillarymutaik/OPE"><img src="assets/projects/OPE.svg" width="100%" alt="OPE: 6D object pose estimation" /></a></td>
   </tr>
 </table>
